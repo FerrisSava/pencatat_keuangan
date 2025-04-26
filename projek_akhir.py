@@ -43,7 +43,6 @@ while True:
     print("4. sisa saldo ")
     print("5. exit")
    
-
     pilihan_anda = int(input("Masukan pilihan anda : "))
 
     if pilihan_anda == 1:
