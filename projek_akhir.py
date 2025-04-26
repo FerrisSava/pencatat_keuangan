@@ -37,6 +37,7 @@ except FileNotFoundError:
 
 
 while True:
+    print("login")
     print("1. pemasukan ")
     print("2. pengeluaran ")
     print("3. riwayat tranksaksi ")
