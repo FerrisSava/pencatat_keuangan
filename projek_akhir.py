@@ -42,7 +42,7 @@ while True:
     print("3. riwayat tranksaksi ")
     print("4. sisa saldo ")
     print("5. exit")
-    print("6. cetak laporan")
+   
 
     pilihan_anda = int(input("Masukan pilihan anda : "))
 
